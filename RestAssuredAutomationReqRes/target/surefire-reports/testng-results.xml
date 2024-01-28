@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-28T12:50:03 NZDT" name="Surefire suite" finished-at="2024-01-28T12:50:06 NZDT" duration-ms="3382">
+    <groups>
+    </groups>
+    <test started-at="2024-01-28T12:50:03 NZDT" name="Surefire test" finished-at="2024-01-28T12:50:06 NZDT" duration-ms="3382">
+      <class name="UserAPITests">
+        <test-method signature="testGetUsersEndpoint()[pri:0, instance:UserAPITests@f2f2cc1]" started-at="2024-01-28T12:50:03 NZDT" name="testGetUsersEndpoint" finished-at="2024-01-28T12:50:05 NZDT" duration-ms="2546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUsersEndpoint -->
+        <test-method signature="testPostUserEndpoint()[pri:0, instance:UserAPITests@f2f2cc1]" started-at="2024-01-28T12:50:05 NZDT" name="testPostUserEndpoint" finished-at="2024-01-28T12:50:06 NZDT" duration-ms="787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUserEndpoint -->
+      </class> <!-- UserAPITests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
